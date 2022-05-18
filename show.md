@@ -44,12 +44,12 @@ Notebook可以随时改代码，再重新运行，但是console只能拉下来�
 方便学习github，可以在Jupyterlab左边栏中填写账号名，即可获取此账号下的所有仓库文件，打开即可阅读<br>
 缺点：文件只能读取，不能修改。解决方法：将github中的文件clone下来到本地，之后再在jupyterlab中打开就可以修改了<br>
 [GitHub插件安装步骤](https://github.com/lisa348/jupyterlab-github/blob/master/README.md)<br>
-2. Matplotlid
+2. Matplotlib
 作图的，可以做到代码的可视化<br>
 我目前的问题，还不能做到交互式变更
 [找到的解决方法链接](https://zhuanlan.zhihu.com/p/371673879)<br>
-[Matplotlid官网](https://matplotlib.org/)<br>
-[Matplotlid补充介绍](https://blog.csdn.net/qq_34859482/article/details/80617391)<br>
+[Matplotlib官网](https://matplotlib.org/)<br>
+[Matplotlib补充介绍](https://blog.csdn.net/qq_34859482/article/details/80617391)<br>
 
 #### 可视化展示
 直接在Jupyterlab上展示
