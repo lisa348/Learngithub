@@ -87,10 +87,9 @@ SSH是标准的网络协议，可用于大多数UNIX操作系统，能够实现�
 [官方说明](file:///D:/Git/mingw64/share/doc/git-doc/gitrepository-layout.html)
 ## 两者的联动
 1. jupyterlab-github插件
-在红框中输入github账号即可进此账号，并显示账号所有仓库
-![截图5](https://s2.loli.net/2022/05/18/I9hUurNMG26VW5l.png "GitHub插件")
-
-可以在jupyterlab中打开，但是只能读取
+在红框中输入github账号即可进此账号，并显示账号所有仓库<br>
+![截图5](https://s2.loli.net/2022/05/18/I9hUurNMG26VW5l.png "GitHub插件")<br>
+可以在jupyterlab中打开，但是只能读取<br>
 ![截图6](https://s2.loli.net/2022/05/18/SVqZOQNwsjUM1zd.png "只能读取")
 2. 将本地文件上传到github中<br>
 上述已介绍
