@@ -28,10 +28,10 @@ conda是一种集成形安装工具包的聚集地，pip只是python的工具包
 
 在help中可以找到Jupyterlab reference ：会有详细的介绍，以及应用指南。[Jupyterlab官网](https://jupyter.org/)
 以及[补充介绍链接](https://zhuanlan.zhihu.com/p/87403131)<br>
-也可输出各种类型的文件
-![截图1](https://s2.loli.net/2022/05/18/ogLtpe7xj9RJrTG.png "输出文件处截图")
-
-其中一个有意思的小功能的介绍：![截图2](https://s2.loli.net/2022/05/18/9sYLNAmza7yOwQh.png "一个小功能介绍")
+也可输出各种类型的文件<br>
+![截图1](https://s2.loli.net/2022/05/18/ogLtpe7xj9RJrTG.png "输出文件处截图")<br>
+其中一个有意思的小功能的介绍：<br>
+![截图2](https://s2.loli.net/2022/05/18/9sYLNAmza7yOwQh.png "一个小功能介绍")<br>
 将其打开，可以拖入文档，光标点击代码处的时候会出现此代码的函数教学，有助于学习以及差错<br>
 补充：
 [Markdown语法官方教学](https://markdown.com.cn/)
@@ -50,7 +50,10 @@ Notebook可以随时改代码，再重新运行，但是console只能拉下来�
 [找到的解决方法链接](https://zhuanlan.zhihu.com/p/371673879)<br>
 [Matplotlib官网](https://matplotlib.org/)<br>
 [Matplotlib补充介绍](https://blog.csdn.net/qq_34859482/article/details/80617391)<br>
-
+3. 安装R语言<br>
+[操作步骤](https://dzone.com/articles/using-r-on-jupyternbspnotebook)<br>
+操作之后就可以在界面上看到R语言<br>
+![截图7](https://s2.loli.net/2022/05/18/LIzhaJ8byfi7QKw.png "添加R之后的界面变化")
 #### 可视化展示
 直接在Jupyterlab上展示
 
