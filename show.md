@@ -1,6 +1,5 @@
 # GitHub与Jupyterlab的小白上手过程展示
-***
-5.20王莉莎
+*5.20王莉莎*
 
 
 ## Juyterlab
@@ -71,7 +70,7 @@ Notebook可以随时改代码，再重新运行，但是console只能拉下来�
 >SSH 专为远程登录会话和其他网络服务提供安全性的协议。利用 SSH 协议可以有效防止远程管理过程中的信息泄露问题。
 SSH是标准的网络协议，可用于大多数UNIX操作系统，能够实现字符界面的远程登录管理，具有更高的安全性。
 
-说白了就是在远程的时候增加了安全性，实验室的服务器使用远程也需要先弄ssh
+说白了就是在远程的时候增加了安全性，实验室的服务器使用远程也需要先弄ssh<br>
 3. GitHub上建仓
 建仓之后就可以在里面编写代码，也可以fork他人的仓库到自己的账号下面<br>
 可以在里面直接编写，然后提交<br>
@@ -85,6 +84,11 @@ SSH是标准的网络协议，可用于大多数UNIX操作系统，能够实现�
 [网上大牛的介绍，很详细](https://blog.csdn.net/u013553529/article/details/59144904)<br>
 [GitHub对此的官方说明](https://docs.github.com/cn/repositories/working-with-files/managing-files/adding-a-file-to-a-repository)<br>
 [简明解释](https://zhuanlan.zhihu.com/p/359552966)<br>
+
+对于GitHub中fork、clone、pull、push的逻辑理解：<br>
+![图片8](https://s2.loli.net/2022/05/18/URaPwixFEbfzq14.png)
+![图片9](https://s2.loli.net/2022/05/18/x1H73eICAhrXPsE.png)
+
 6.  Git的补充说明
 .git文件夹中的一堆文件都代表什么
 [官方说明](file:///D:/Git/mingw64/share/doc/git-doc/gitrepository-layout.html)
