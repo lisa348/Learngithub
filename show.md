@@ -17,7 +17,7 @@
 1. 通过pip 
 2. 通过conda<br>
 两者的区别：<br>
-conda是一种集成形安装工具包的聚集地，pip只是python的工具包，所以建议使用conda，因为在后续jupyterlab添加插件以及下载其他工具更加便捷<br>
+conda是一种集成型安装工具包的聚集地，pip只是python的工具包，所以建议使用conda，因为在后续jupyterlab添加插件以及下载其他包更加便捷<br>
 [Jupyterlab安装步骤链接](https://jupyter.org/install)<br>
 [还可以更换打开jupyterlab的浏览器](https://cloud.tencent.com/developer/article/1740382)<br>
 [也可以添加快捷方式](https://blog.csdn.net/mark__tuwen/article/details/106030691)<br>
