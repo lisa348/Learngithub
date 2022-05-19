@@ -6,7 +6,7 @@
 ### Juyterlab介绍
 它是Jupyter notebook的升级版<br>
 所以特点：<br>
-1. 在浏览器中打开，与其他网页的交互性，联动性强，也就是说如果用chrome打开的话，chrome也是可以照常用在jupyterlab上的
+1. 在浏览器中打开，与其他网页的交互性，联动性强，也就是说如果用chrome打开的话，chrome插件也是可以照常用在jupyterlab上的
 2. 集成型工具，功能强大，由于有很多插件，可以管理各类型文件，比如你关闭了Lab的页面，重新访问Lab，甚至是从另一台设备访问Lab，你都可以得到一个完美复原的环境，包括你打开的页面，它们的位置，甚至运行情况都会得以保存。即相当于你有了云桌面
 3. 脚本的编辑，运行，可视化一站式体验<br>
 
@@ -38,12 +38,12 @@ conda是一种集成形安装工具包的聚集地，pip只是python的工具包
 notebook和console的区别：<br>
 Notebook可以随时改代码，再重新运行，但是console只能拉下来代码之后更改再运行，目前我理解的是，console可以比较清楚看到代码修改对比
 
-#### 插件安装
-1. GitHub
+#### 拓展安装
+1. GitHub插件
 方便学习github，可以在Jupyterlab左边栏中填写账号名，即可获取此账号下的所有仓库文件，打开即可阅读<br>
 缺点：文件只能读取，不能修改。解决方法：将github中的文件clone下来到本地，之后再在jupyterlab中打开就可以修改了<br>
 [GitHub插件安装步骤](https://github.com/lisa348/jupyterlab-github/blob/master/README.md)<br>
-2. Matplotlib
+2. Matplotlib插件
 作图的，可以做到代码的可视化<br>
 我目前的问题，还不能做到交互式变更
 [找到的解决方法链接](https://zhuanlan.zhihu.com/p/371673879)<br>
@@ -51,6 +51,8 @@ Notebook可以随时改代码，再重新运行，但是console只能拉下来�
 [Matplotlib补充介绍](https://blog.csdn.net/qq_34859482/article/details/80617391)<br>
 3. 安装R语言<br>
 [操作步骤](https://dzone.com/articles/using-r-on-jupyternbspnotebook)<br>
+`install.packages('IRkernel')`<br>
+`IRkernel::installspec(user = FALSE)`<br>
 操作之后就可以在界面上看到R语言<br>
 ![截图7](https://s2.loli.net/2022/05/18/LIzhaJ8byfi7QKw.png "添加R之后的界面变化")
 #### 可视化展示
