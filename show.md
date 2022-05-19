@@ -90,9 +90,10 @@ SSH是标准的网络协议，可用于大多数UNIX操作系统，能够实现�
 ![图片8](https://s2.loli.net/2022/05/18/URaPwixFEbfzq14.png)
 ![图片9](https://s2.loli.net/2022/05/18/x1H73eICAhrXPsE.png)
 
-6.  Git的补充说明
+6.  Git的补充说明<br>
 .git文件夹中的一堆文件都代表什么
-[官方说明](file:///D:/Git/mingw64/share/doc/git-doc/gitrepository-layout.html)
+[官方说明](https://git-scm.com/docs/gitrepository-layout)
+
 ## 两者的联动
 1. jupyterlab-github插件
 在红框中输入github账号即可进此账号，并显示账号所有仓库<br>
